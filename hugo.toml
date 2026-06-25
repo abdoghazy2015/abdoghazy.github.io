@@ -3,3 +3,6 @@ baseURL = "https://abdoghazy2015.github.io/"
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'PaperMod'
+
+[params]
+  mainSections = ["posts"]
